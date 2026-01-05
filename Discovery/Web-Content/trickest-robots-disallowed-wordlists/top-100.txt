@@ -23,6 +23,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 &eventType=
 &fbclid=
 &forumId=
+&gl=
 &hidePromoBar=
 &i
 &id
@@ -822,6 +823,7 @@ blog/*?event-format=
 blog/*?event-type=
 blog/*?s=
 blog/*?segment=
+blog/?
 blog/following
 blog/search
 blog/wp-admin
@@ -903,7 +905,6 @@ cit/renewable-energy
 cit/small-business-mergers
 cit/small-business-mergers-2
 citations?
-citations?*cstart=
 citations?user=
 citations?view_op=new_profile
 citations?view_op=top_venues
@@ -1360,7 +1361,6 @@ ga_exp.js
 gallery
 games?act=search_page&tags=
 gb/images
-gcc
 gdpr-consent
 genuine/
 geo/browse
@@ -1378,6 +1378,7 @@ gethelp/
 gifts
 gist
 giveaway/host/setup
+gl=*&
 glass/images/commerce
 global$
 gog
@@ -1496,7 +1497,6 @@ gsx
 gtp/stir
 guidebooks
 gview
-gwt
 h5games_gamecenter/images
 hashtag/*?src=
 hd
@@ -1535,10 +1535,11 @@ hp/video
 hpc/*/supported-applications.aspx?
 hpm
 hpmob
-http://bbc.com/robots.txt
-http://m.youtube.com/robots.txt
-http://s3.amazonaws.com/robots.txt
+http://blog.google/robots.txt
+http://dropbox.com/robots.txt
+http://mozilla.org/robots.txt
 http://slideshare.net/robots.txt
+http://washingtonpost.com/robots.txt
 hub?category=
 hz/contact-us/ajax/initiate-trusted-contact
 hz/help/contact/*/message/$
@@ -1572,7 +1573,6 @@ images/search?
 images/searchbyimage
 images?
 imaginecup/*
-imesync
 imgres
 imode/?
 imode/search?
@@ -1777,9 +1777,7 @@ mailman
 main
 manage_playlist
 map_tile.php
-mapabcpoi?
 maphp?
-mapprint?
 maps
 maps/$
 maps/?daddr=
@@ -1813,7 +1811,6 @@ maps/reserve/manage
 maps/reserve/partner-dashboard
 maps/reserve/partners
 maps/reserve/payment
-maps/reserve/payments
 maps/reserve/receipt
 maps/reserve/search
 maps/reserve/sellersignup
@@ -1835,7 +1832,6 @@ maps?saddr=
 maps?sid=
 mapslt?
 mapspro
-mapstt?
 mapview
 market_catalog/*?w=product-
 marketing-cms
@@ -1886,13 +1882,8 @@ music/*/wal/
 music/album
 music/artist
 musica
-musicad
-musicas
 musicl
-musiclp
 musics
-musicsearch
-musicsp
 musicstore/download
 musicstore/preview
 mwebWindowDone
@@ -1952,7 +1943,6 @@ onebox/sports/logos/sports_types/png
 open
 oppenheimerfunds/the-upside
 organization-guest
-orkut/albums
 ospublishing/story
 osview
 otherContacts
@@ -2059,9 +2049,6 @@ posttv/c/video_search
 posttv/posttv/trendex
 posttv/sponsored-video
 ppl
-ppob/?
-ppob?
-pqa
 preference
 present
 presentation
@@ -2126,12 +2113,10 @@ pt-br/vimeo-academy
 pub/dir
 public-profile
 publications
-purchases
 puzzles/leaderboards/invite
 pwapi-proxy/pwproxy
 pwapiv2
 q=
-qnasearch?
 qr
 quality_form?
 rackspace/elevating-performance
@@ -2141,8 +2126,6 @@ rating
 rd/search
 rd/search$
 rd/search?
-recharge/dashboard/car
-recharge/dashboard/static
 recipes/*?q=
 recipes/search
 reconnect
@@ -2273,9 +2256,6 @@ sharing
 sharing/files
 sharing/folders
 shenghuo
-shenghuo/search?
-shihui
-shihui?
 shop$
 shop/
 shop/browse/overlay
@@ -2298,7 +2278,6 @@ shopping/suppliers/search
 shopping?
 shopping?udm=28$
 shopstream
-sidewiki/entry
 signature
 signin
 signin-oidc
@@ -2604,11 +2583,6 @@ sport/olympics/2008/events
 sport/olympics/2008/medals
 spreadsheet
 spresults
-sprint_wml
-sprint_xhtml
-squared/api
-squared/search
-squared/table
 src=support_app
 ss
 ss/customer-reviews/lighthouse
@@ -2781,7 +2755,6 @@ top-stories
 topic
 topic*?post=
 topics
-topicsearch?q=
 touringbird
 toyota/coming-soon
 toyota/fueled-by-skepticism
@@ -2849,7 +2822,6 @@ travel/story
 trends
 trends/api
 trends/beta
-trends/embed
 trends/embed.js?
 trends/explore?
 trends/fetchComponent?
@@ -3467,7 +3439,6 @@ wwwhkotc.cc
 x/oauth
 xclick-auction
 xdoor
-xfx7
 xhr
 xhtml/?
 xhtml/search?
